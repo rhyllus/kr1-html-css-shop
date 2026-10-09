@@ -27,4 +27,6 @@
 
 Группа: ЭФБО-15-25
 
+## Ссылка на опубликованный проект
 
+GitHub Pages: https://rhyllus.github.io/kr1-html-css-shop/
